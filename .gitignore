@@ -17,7 +17,7 @@
 
 # Ignore private configs
 /config/database.yml
-/config/secret.yml
+/config/secrets.yml
 
 # Ignore irrelevant files
 screenlog.0
